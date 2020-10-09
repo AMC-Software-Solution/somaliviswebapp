@@ -7,6 +7,19 @@
       "jhipster-needle-menu-add-element": "JHipster will add additional menu entries here (do not translate!)",
       "entities": {
         "main": "Entities",
+        "applicant": "Applicant",
+        "applicantTravelDocument": "Applicant Travel Document",
+        "applicantContactInfo": "Applicant Contact Info",
+        "visaApplication": "Visa Application",
+        "visaApplicationStay": "Visa Application Stay",
+        "applicationComment": "Application Comment",
+        "paymentTransaction": "Payment Transaction",
+        "applicationFee": "Application Fee",
+        "appSetting": "App Setting",
+        "systemSetting": "System Setting",
+        "country": "Country",
+        "electronicVisa": "Electronic Visa",
+        "employee": "Employee",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {

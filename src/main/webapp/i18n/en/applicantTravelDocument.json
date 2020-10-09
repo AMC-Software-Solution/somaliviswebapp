@@ -1,0 +1,28 @@
+{
+  "somaliviswebappApp": {
+    "applicantTravelDocument": {
+      "home": {
+        "title": "Applicant Travel Documents",
+        "createLabel": "Create a new Applicant Travel Document",
+        "createOrEditLabel": "Create or edit a Applicant Travel Document",
+        "notFound": "No Applicant Travel Documents found"
+      },
+      "created": "A new Applicant Travel Document is created with identifier {{ param }}",
+      "updated": "A Applicant Travel Document is updated with identifier {{ param }}",
+      "deleted": "A Applicant Travel Document is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Applicant Travel Document {{ id }}?"
+      },
+      "detail": {
+        "title": "Applicant Travel Document"
+      },
+      "documentNumber": "Document Number",
+      "dateOfIssue": "Date Of Issue",
+      "expiryDate": "Expiry Date",
+      "issuingAuthority": "Issuing Authority",
+      "documentPhoto": "Document Photo",
+      "typeOfDocument": "Type Of Document",
+      "applicant": "Applicant"
+    }
+  }
+}

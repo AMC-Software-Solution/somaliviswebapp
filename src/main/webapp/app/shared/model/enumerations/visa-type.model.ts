@@ -1,0 +1,7 @@
+export const enum VisaType {
+  SINGLE_ENTRY = 'SINGLE_ENTRY',
+
+  MULTIPLE_ENTRY = 'MULTIPLE_ENTRY',
+
+  TRANSIT = 'TRANSIT',
+}

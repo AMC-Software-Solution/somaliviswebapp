@@ -1,0 +1,10 @@
+{
+  "somaliviswebappApp": {
+    "TravelMode": {
+      "null": "",
+      "AIR": "AIR",
+      "SEA": "SEA",
+      "LAND": "LAND"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "somaliviswebappApp": {
+    "applicantContactInfo": {
+      "home": {
+        "title": "Applicant Contact Infos",
+        "createLabel": "Create a new Applicant Contact Info",
+        "createOrEditLabel": "Create or edit a Applicant Contact Info",
+        "notFound": "No Applicant Contact Infos found"
+      },
+      "created": "A new Applicant Contact Info is created with identifier {{ param }}",
+      "updated": "A Applicant Contact Info is updated with identifier {{ param }}",
+      "deleted": "A Applicant Contact Info is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Applicant Contact Info {{ id }}?"
+      },
+      "detail": {
+        "title": "Applicant Contact Info"
+      },
+      "applicantsHomeAddress": "Applicants Home Address",
+      "telephoneNumber": "Telephone Number",
+      "email": "Email",
+      "employer": "Employer",
+      "employersAddress": "Employers Address",
+      "applicant": "Applicant"
+    }
+  }
+}

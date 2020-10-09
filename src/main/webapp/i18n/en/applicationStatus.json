@@ -1,0 +1,12 @@
+{
+  "somaliviswebappApp": {
+    "ApplicationStatus": {
+      "null": "",
+      "RECEIVED": "RECEIVED",
+      "UNDER_PROCESS": "UNDER_PROCESS",
+      "APPROVED": "APPROVED",
+      "CANCELLED": "CANCELLED",
+      "REJECTED": "REJECTED"
+    }
+  }
+}

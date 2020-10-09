@@ -1,0 +1,13 @@
+{
+  "somaliviswebappApp": {
+    "TypeOfTravelDocument": {
+      "null": "",
+      "ORDINARY_PASSPORT": "ORDINARY_PASSPORT",
+      "SERVICE_PASSPORT": "SERVICE_PASSPORT",
+      "DIPLOMATIC_PASSPORT": "DIPLOMATIC_PASSPORT",
+      "OFFICIAL_PASSPORT": "OFFICIAL_PASSPORT",
+      "SUPPORTING_DOCUMENT": "SUPPORTING_DOCUMENT",
+      "OTHER": "OTHER"
+    }
+  }
+}

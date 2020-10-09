@@ -1,0 +1,27 @@
+{
+  "somaliviswebappApp": {
+    "appSetting": {
+      "home": {
+        "title": "AppSettings",
+        "createLabel": "Créer un nouveau App Setting",
+        "createOrEditLabel": "Créer ou éditer un App Setting",
+        "notFound": "Aucun App Setting trouvé"
+      },
+      "created": "Un nouveau App Setting a été créé avec l'identifiant {{ param }}",
+      "updated": "Le App Setting avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le App Setting avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le App Setting {{ id }} ?"
+      },
+      "detail": {
+        "title": "App Setting"
+      },
+      "fieldName": "Field Name",
+      "fieldValue": "Field Value",
+      "defaultValue": "Default Value",
+      "enabled": "Enabled",
+      "createdDate": "Created Date",
+      "updatedDate": "Updated Date"
+    }
+  }
+}

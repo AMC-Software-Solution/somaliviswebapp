@@ -1,0 +1,27 @@
+{
+  "somaliviswebappApp": {
+    "applicationComment": {
+      "home": {
+        "title": "Application Comments",
+        "createLabel": "Create a new Application Comment",
+        "createOrEditLabel": "Create or edit a Application Comment",
+        "notFound": "No Application Comments found"
+      },
+      "created": "A new Application Comment is created with identifier {{ param }}",
+      "updated": "A Application Comment is updated with identifier {{ param }}",
+      "deleted": "A Application Comment is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Application Comment {{ id }}?"
+      },
+      "detail": {
+        "title": "Application Comment"
+      },
+      "title": "Title",
+      "comment": "Comment",
+      "commentDate": "Comment Date",
+      "commenterType": "Commenter Type",
+      "visaApplication": "Visa Application",
+      "commentedBy": "Commented By"
+    }
+  }
+}

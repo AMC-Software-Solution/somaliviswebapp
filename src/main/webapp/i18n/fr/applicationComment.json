@@ -1,0 +1,27 @@
+{
+  "somaliviswebappApp": {
+    "applicationComment": {
+      "home": {
+        "title": "ApplicationComments",
+        "createLabel": "Créer un nouveau Application Comment",
+        "createOrEditLabel": "Créer ou éditer un Application Comment",
+        "notFound": "Aucun Application Comment trouvé"
+      },
+      "created": "Un nouveau Application Comment a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Application Comment avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Application Comment avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Application Comment {{ id }} ?"
+      },
+      "detail": {
+        "title": "Application Comment"
+      },
+      "title": "Title",
+      "comment": "Comment",
+      "commentDate": "Comment Date",
+      "commenterType": "Commenter Type",
+      "visaApplication": "Visa Application",
+      "commentedBy": "Commented By"
+    }
+  }
+}

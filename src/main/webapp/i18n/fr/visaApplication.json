@@ -1,0 +1,40 @@
+{
+  "somaliviswebappApp": {
+    "visaApplication": {
+      "home": {
+        "title": "VisaApplications",
+        "createLabel": "Créer un nouveau Visa Application",
+        "createOrEditLabel": "Créer ou éditer un Visa Application",
+        "notFound": "Aucun Visa Application trouvé"
+      },
+      "created": "Un nouveau Visa Application a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Visa Application avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Visa Application avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Visa Application {{ id }} ?"
+      },
+      "detail": {
+        "title": "Visa Application"
+      },
+      "applicationName": "Application Name",
+      "applicationCode": "Application Code",
+      "applicationDate": "Application Date",
+      "applicationStatus": "Application Status",
+      "travelPurpose": "Travel Purpose",
+      "visaType": "Visa Type",
+      "travelMode": "Travel Mode",
+      "portOfEntry": "Port Of Entry",
+      "numberOfEntriesRequested": "Number Of Entries Requested",
+      "intendedDateOfArrival": "Intended Date Of Arrival",
+      "intendedDateOfDeparture": "Intended Date Of Departure",
+      "validUntil": "Valid Until",
+      "travelPurposeOther": "Travel Purpose Other",
+      "rejectReason": "Reject Reason",
+      "approvedDate": "Approved Date",
+      "visaApplicationStay": "Visa Application Stay",
+      "applicationFee": "Application Fee",
+      "electronicVisa": "Electronic Visa",
+      "approvedBy": "Approved By"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "somaliviswebappApp": {
+    "electronicVisa": {
+      "home": {
+        "title": "Electronic Visas",
+        "createLabel": "Create a new Electronic Visa",
+        "createOrEditLabel": "Create or edit a Electronic Visa",
+        "notFound": "No Electronic Visas found"
+      },
+      "created": "A new Electronic Visa is created with identifier {{ param }}",
+      "updated": "A Electronic Visa is updated with identifier {{ param }}",
+      "deleted": "A Electronic Visa is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Electronic Visa {{ id }}?"
+      },
+      "detail": {
+        "title": "Electronic Visa"
+      },
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "visaNumber": "Visa Number",
+      "barcode": "Barcode",
+      "nationality": "Nationality",
+      "placeOfBirth": "Place Of Birth",
+      "travelDocument": "Travel Document",
+      "travelDocumentIssueDate": "Travel Document Issue Date",
+      "travelDocumentExpiryDate": "Travel Document Expiry Date",
+      "travelPurpose": "Travel Purpose",
+      "visaValidFrom": "Visa Valid From",
+      "visaValidUntil": "Visa Valid Until",
+      "visaValidityType": "Visa Validity Type",
+      "visaType": "Visa Type",
+      "visaApplication": "Visa Application"
+    }
+  }
+}

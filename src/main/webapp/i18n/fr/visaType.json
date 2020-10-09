@@ -1,0 +1,10 @@
+{
+  "somaliviswebappApp": {
+    "VisaType": {
+      "null": "",
+      "SINGLE_ENTRY": "SINGLE_ENTRY",
+      "MULTIPLE_ENTRY": "MULTIPLE_ENTRY",
+      "TRANSIT": "TRANSIT"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "somaliviswebappApp": {
+    "PaymentStatus": {
+      "null": "",
+      "PAID": "PAID",
+      "UNPAID": "UNPAID",
+      "CANCELLED": "CANCELLED",
+      "REJECTED": "REJECTED",
+      "PENDING": "PENDING"
+    }
+  }
+}

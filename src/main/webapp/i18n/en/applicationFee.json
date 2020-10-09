@@ -1,0 +1,26 @@
+{
+  "somaliviswebappApp": {
+    "applicationFee": {
+      "home": {
+        "title": "Application Fees",
+        "createLabel": "Create a new Application Fee",
+        "createOrEditLabel": "Create or edit a Application Fee",
+        "notFound": "No Application Fees found"
+      },
+      "created": "A new Application Fee is created with identifier {{ param }}",
+      "updated": "A Application Fee is updated with identifier {{ param }}",
+      "deleted": "A Application Fee is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Application Fee {{ id }}?"
+      },
+      "detail": {
+        "title": "Application Fee"
+      },
+      "amount": "Amount",
+      "description": "Description",
+      "currency": "Currency",
+      "currentIsoCode": "Current Iso Code",
+      "visaApplication": "Visa Application"
+    }
+  }
+}

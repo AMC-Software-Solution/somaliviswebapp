@@ -1,0 +1,9 @@
+{
+  "somaliviswebappApp": {
+    "CommenterType": {
+      "null": "",
+      "EMPLOYEE": "EMPLOYEE",
+      "APPLICANT": "APPLICANT"
+    }
+  }
+}

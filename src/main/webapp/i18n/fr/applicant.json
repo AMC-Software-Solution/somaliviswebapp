@@ -1,0 +1,36 @@
+{
+  "somaliviswebappApp": {
+    "applicant": {
+      "home": {
+        "title": "Applicants",
+        "createLabel": "Créer un nouveau Applicant",
+        "createOrEditLabel": "Créer ou éditer un Applicant",
+        "notFound": "Aucun Applicant trouvé"
+      },
+      "created": "Un nouveau Applicant a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Applicant avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Applicant avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Applicant {{ id }} ?"
+      },
+      "detail": {
+        "title": "Applicant"
+      },
+      "title": "Title",
+      "firstName": "First Name",
+      "middleNames": "Middle Names",
+      "lastName": "Last Name",
+      "fullName": "Full Name",
+      "dateOfBirth": "Date Of Birth",
+      "placeOfBirth": "Place Of Birth",
+      "sex": "Sex",
+      "maritalStatus": "Marital Status",
+      "occupation": "Occupation",
+      "photo": "Photo",
+      "applicantContactInfo": "Applicant Contact Info",
+      "nationality": "Nationality",
+      "countryOfBirth": "Country Of Birth",
+      "nationalityAtBirth": "Nationality At Birth"
+    }
+  }
+}

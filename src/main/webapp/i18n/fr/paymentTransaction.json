@@ -1,0 +1,28 @@
+{
+  "somaliviswebappApp": {
+    "paymentTransaction": {
+      "home": {
+        "title": "PaymentTransactions",
+        "createLabel": "Créer un nouveau Payment Transaction",
+        "createOrEditLabel": "Créer ou éditer un Payment Transaction",
+        "notFound": "Aucun Payment Transaction trouvé"
+      },
+      "created": "Un nouveau Payment Transaction a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Payment Transaction avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Payment Transaction avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Payment Transaction {{ id }} ?"
+      },
+      "detail": {
+        "title": "Payment Transaction"
+      },
+      "transactionAmount": "Transaction Amount",
+      "paymentType": "Payment Type",
+      "paymentDescription": "Payment Description",
+      "paymentStatus": "Payment Status",
+      "transactionDate": "Transaction Date",
+      "paymentProvider": "Payment Provider",
+      "visaApplication": "Visa Application"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "somaliviswebappApp": {
+    "visaApplicationStay": {
+      "home": {
+        "title": "Visa Application Stays",
+        "createLabel": "Create a new Visa Application Stay",
+        "createOrEditLabel": "Create or edit a Visa Application Stay",
+        "notFound": "No Visa Application Stays found"
+      },
+      "created": "A new Visa Application Stay is created with identifier {{ param }}",
+      "updated": "A Visa Application Stay is updated with identifier {{ param }}",
+      "deleted": "A Visa Application Stay is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Visa Application Stay {{ id }}?"
+      },
+      "detail": {
+        "title": "Visa Application Stay"
+      },
+      "durationOfProposedStayInDays": "Duration Of Proposed Stay In Days",
+      "nameOfHostingPersonOrcompany": "Name Of Hosting Person Orcompany",
+      "stayingLocationName": "Staying Location Name",
+      "stayLocationFullAddress": "Stay Location Full Address",
+      "stayLocationTelephoneNumber": "Stay Location Telephone Number",
+      "stayLocationEmail": "Stay Location Email",
+      "whoCoversCostOfApplicantsStay": "Who Covers Cost Of Applicants Stay",
+      "visaApplication": "Visa Application"
+    }
+  }
+}
